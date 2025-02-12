@@ -1,0 +1,2 @@
+# Echo-Smp
+minecraft server
