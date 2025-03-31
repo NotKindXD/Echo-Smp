@@ -1,2 +1,3 @@
 # Echo-Smp
 minecraft server
+.
